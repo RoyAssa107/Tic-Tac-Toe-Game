@@ -11,6 +11,6 @@ Each turn, a player has to choose a place on board to pin it's character.
 
 The first player who creates a 3-in a row match wins the round.
 
-the first player to reach 3 round wins, is the winner of the game.
+The first player to reach 3 round wins, is the winner of the game.
 
 
